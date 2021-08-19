@@ -1,23 +1,24 @@
 body{
-	background-color:#DCDCDC;
+	background-color:#fff;
 }
 table{
 font-family: sans-serif;
 text-align: left;
 border-collapse:separate;
 border-spacing:2px;
-background:#87CEEB;
-color:#191970;
+background:#DCDCDC;
+color:#C0C0C0;
 border: 1px solid fff;
 }
 th{
 	font-size: 25px;
 	padding: 5px;
-	background:#87CEFA;
+	background:#FF4500;
+	color:#fff;
 }
 
 td{
 	font-size: 21px;
 	padding: 5px;
-	background:#ADD8E6;
+	background:#fff;
 }
