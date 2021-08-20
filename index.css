@@ -9,8 +9,10 @@ border-spacing:2px;
 background:#DCDCDC;
 color:#C0C0C0;
 border: 1px solid fff;
+center;
+margin-left: 3%;
 }
-th{
+.k{
 	font-size: 25px;
 	padding: 5px;
 	background:#FF4500;
@@ -22,3 +24,9 @@ td{
 	padding: 5px;
 	background:#fff;
 }
+
+th{
+	font-size: 25px;
+	padding: 5px;
+	
+	color:#fff;
